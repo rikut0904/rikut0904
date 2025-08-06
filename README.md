@@ -66,14 +66,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikut0904&theme=transparent&border_radius=10" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
