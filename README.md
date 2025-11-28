@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ede7ff&height=150&section=header&animation=twinkling" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4A90E2&center=true&vCenter=true&width=600&lines=I'm+rikut0904;LMS+and+EdTech+Enthusiast+📚;Learning+Go%2C+Rust%2C+and+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=B48EF7&center=true&vCenter=true&width=600&lines=I'm+rikut0904;LMS+and+EdTech+Enthusiast+📚;Learning+Go%2C+Rust%2C+and+Next.js" alt="Typing SVG" />
 </div>
 
 ---
